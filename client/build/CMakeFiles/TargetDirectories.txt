@@ -1,3 +1,0 @@
-/home/mksbrsv/code/cpp/chat/client/build/CMakeFiles/client.dir
-/home/mksbrsv/code/cpp/chat/client/build/CMakeFiles/edit_cache.dir
-/home/mksbrsv/code/cpp/chat/client/build/CMakeFiles/rebuild_cache.dir

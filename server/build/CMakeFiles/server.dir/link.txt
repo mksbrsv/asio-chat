@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/server.dir/src/connection.cpp.o CMakeFiles/server.dir/src/main.cpp.o CMakeFiles/server.dir/src/server.cpp.o -o server  -lpthread /usr/lib/libboost_system.so.1.78.0 
